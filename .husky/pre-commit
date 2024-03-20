@@ -1,6 +1,4 @@
-echo ''
-echo 'Running Jest tests...'
+echo '\n Running Jest tests...'
 npm test
-echo ''
 echo '\n Running e2e tests...'
 npm run e2e
